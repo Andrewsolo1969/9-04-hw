@@ -52,7 +52,11 @@ sudo nano /etc/systemd/system/prometheus.service
 3. Создайте сервис для как показано на уроке
 4. Проверьте что node exporter запускается, останавливается, перезапускается и отображает статус с помощью systemctl
 
+Node exporter остановлен.
+
 ![NE_stop](https://github.com/Andrewsolo1969/9-04-hw/blob/main/img/NE_stop.png)
+
+Node exporter запущен.
 
 ![NE_start](https://github.com/Andrewsolo1969/9-04-hw/blob/main/img/NE_start.png)
 
@@ -106,6 +110,7 @@ Node-exporter на хосте 192.168.122.198
  [Grafana](https://github.com/Andrewsolo1969/9-04-hw/blob/main/img/Grafana.png)
 
 ## Задание 5*
+
 Интегрируйте Grafana и Prometheus.
 
 Требования к результату
