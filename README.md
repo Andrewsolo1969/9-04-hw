@@ -107,7 +107,7 @@ Node-exporter на хосте 192.168.122.198
 
  Прикрепите к файлу README.md скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО
 
- [Grafana](https://github.com/Andrewsolo1969/9-04-hw/blob/main/img/Grafana.png)
+ ![Grafana](https://github.com/Andrewsolo1969/9-04-hw/blob/main/img/Grafana.png)
 
 ## Задание 5*
 
@@ -117,6 +117,6 @@ Node-exporter на хосте 192.168.122.198
 
  Прикрепите к файлу README.md скриншот дашборда (ID:11074) с поступающими туда данными из Node Exporter
 
- [NE_full](https://github.com/Andrewsolo1969/9-04-hw/blob/main/img/NE_full.png)
+ ![NE_full](https://github.com/Andrewsolo1969/9-04-hw/blob/main/img/NE_full.png)
 
  
